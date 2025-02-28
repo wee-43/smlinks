@@ -1,7 +1,7 @@
 {
   "name": "ll",
   "version": "1.0.0",
-  "main": "app2.js", // Changed to match start script
+  "main": "app2.js", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app2.js"
@@ -24,7 +24,7 @@
     "resend": "^4.1.2",
     "twilio": "^5.4.4"
   },
-  "devDependencies": { // Moved nodemon here
+  "devDependencies": {
     "nodemon": "^3.1.9"
   }
 }
